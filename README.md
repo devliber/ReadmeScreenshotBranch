@@ -27,3 +27,12 @@ This can be viewed locally, but not on GitHub.
 This can be viewed locally, but not on GitHub.
 
 ![screenshot](assets/screenshot.png)
+
+## raw.githubusercontent.com absolute URL
+
+https://raw.githubusercontent.com/devliber/ReadmeScreenshotBranch/assets/screenshot.png
+
+This can be viewed both locally, and on GitHub.
+
+![screenshot](https://raw.githubusercontent.com/devliber/ReadmeScreenshotBranch/assets/screenshot.png)
+
